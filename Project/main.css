@@ -1,0 +1,125 @@
+/* CSS for the main page */
+
+.bd{
+
+  max-width: auto;
+  max-height: auto;
+  margin: auto;
+}
+
+div.heads {
+  color: white;
+  background-color: #161B0B;
+  text-align: center;
+}
+
+
+.mimg {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  width: 400px;
+      height: 400px;
+}
+
+.timg {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 400px;
+    height: 400px;
+}
+
+.limg {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  width: 400px;
+  height: 400px;
+}
+
+div.metallica {
+  display: inline-block;
+}
+
+div.trivium {
+display: inline-block;
+}
+
+div.lamb {
+display: inline-block;
+}
+
+.footer{
+  color: white;
+  background-color: #161B0B;
+  position: fixed;
+bottom: 0px;
+width: 100%;
+margin-left: 0;
+margin-right: 0;
+}
+
+/* CSS for the links */
+.heading {
+  width:80%;
+  height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.centered {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 100px;
+}
+
+div.biography {
+  text-align: center;
+  border: 2px dotted;
+  border-width: thin;
+}
+
+div.songs {
+  text-align: center;
+  border: 2px dotted;
+  border-width: thin;
+}
+
+img.cover {
+  width:50%;
+  height: 50%;
+}
+
+.albums, th {
+  border: 1px solid;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+div.records {
+    text-align: center;
+  margin-left: auto;
+margin-right: auto;
+width: 40em
+}
+
+.hi {
+  position: relative;
+  top: -30px;
+  left: 90%;
+}
+
+
+.footers{
+  color: white;
+  background-color: #161B0B;
+bottom: -25px;
+width: 100%;
+height: 50px;
+position: relative;
+margin-left: 0;
+margin-right: 0;
+}
